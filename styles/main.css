@@ -1,22 +1,22 @@
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: antiquewhite;
+    background-color: rgb(215, 236, 250);
 }
 nav{
-    background-color: forestgreen;
+    background-color: rgb(198, 113, 199);
 }
 nav a{
-    color: goldenrod;
+    color: rgb(32, 72, 218);
     text-decoration: none;
     padding: 1rem;
     display: inline-block;
 }
-nav li:hover a{
+nav  :hover a{
     color: white;
     text-decoration: underline;
 }
 nav li{
-    display: inline-block;
+    display: inline-table;
 }
 main{
     padding: 1.5rem;
